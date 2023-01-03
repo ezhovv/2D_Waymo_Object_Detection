@@ -1,4 +1,4 @@
-# 2 D Objects Detection
+# 2D Object Detection
 
 Self-driving vehicles need sophisticated perception capabilities to cappture ever-changying dynamics of the surroundings. One task of the perception system - object detection - is the crucial part that allows the vehicle to safelly navigate the environment. 
 
